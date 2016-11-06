@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Ministries
-permalink: /ministries/
+permalink: "/ministries/"
+layout: page
 ---
 
 If you would like to participate in a certain ministry,

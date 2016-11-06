@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Our Pastors
-permalink: /our-pastors/
+permalink: "/our-pastors/"
+layout: page
 ---
 
 - **Father Christoph Heimpel** - Parish priest of our mother parish Philipp Neri, Heidelberg

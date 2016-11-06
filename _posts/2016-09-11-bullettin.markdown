@@ -1,8 +1,9 @@
 ---
+title: ICCH Bullettin
+date: 2016-09-11 16:05:48 Z
+categories:
+- bullettin
 layout: post
-title:  "ICCH Bullettin"
-date:   2016-09-11 18:05:48 +0200
-categories: bullettin
 ---
 
 *Welcome Father John*

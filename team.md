@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Our Parish Team
-permalink: /our-directory/
+permalink: "/our-directory/"
+layout: page
 ---
 
 The Parish Team helps organize our ministries and activities, perceives the needs of the community, discusses urgent or continuous matters, keeps the contact to our mother parish/ the city church and much more.

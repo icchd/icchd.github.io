@@ -1,7 +1,7 @@
 ---
+title: Our Gatherings
+permalink: "/our-gatherings/"
 layout: page
-title: Our Gatherings 
-permalink: /our-gatherings/
 ---
 
 - **Choir Practice**

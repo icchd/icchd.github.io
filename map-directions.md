@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Map & Directions
-permalink: /driving-directions/
+permalink: "/driving-directions/"
+layout: page
 ---
 
 **[St. Michael](https://maps.google.com/maps?q=Kirschgartenstra%C3%9Fe+35,+Heidelberg,+Germany&hl=en&ie=UTF8&sll=49.388464,8.688504&sspn=0.007878,0.01929&hnear=Kirschgartenstra%C3%9Fe+35,+69126+Heidelberg,+Karlsruhe,+Baden-W%C3%BCrttemberg,+Germany&t=m&z=16&iwloc=A)**<br/>

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: News
-permalink: /news/
+permalink: "/news/"
+layout: page
 ---
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
