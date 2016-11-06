@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="home">
+  <img src="{{ site.assets }}/community.jpg" />
+
+  <br />
+  <br />
+  <h1 class="page-heading">
+    Welcome to our International Catholic Community!
+  </h1>
+  <p>
+    The beginnings of this English-speaking Catholic Community
+    date back to as recent a time as September 2013. Those who
+    had until then participated in the celebrations of the
+    American Military Catholic Community made plans to fill the
+    gap that opened when the American Forces left Heidelberg.
+  </p>
+  <p>
+    In September 2013, we were able to celebrate our first Mass
+    in English language in the <a href="http://www.stadtkirche-heidelberg.de/html/kirche_st_michael965.html">Church of St.  Michael.</a>
+    Since then every Sunday 1p.m. Mass is gathering
+    a mixed community made up of employees of different
+    international companies, people engaged in studies and
+    research at the university, and guests in this city. Despite
+    their many different backgrounds, cultures and languages,
+    our community members are united through the bonds of their
+    faith.
+  </p>
+  <p>
+    Apart from our Sunday Mass, we offer regular occasions to
+    receive the Sacrament of Reconciliation. Of course, the
+    celebration of other sacraments is possible as well. Once a
+    month, the community meets for a Social Gathering where we
+    enjoy food and each other's company...
+  </p>
+  <p>
+    ICCH is part of the Catholic City Church of Heidelberg
+    ("<a href="http://www.stadtkirche-heidelberg.de/">Stadtkirche Heidelberg</a>")
+    inside the parish of Philipp
+    Neri. As a community whose activities are organized by
+    volunteers, it depends on the help of everyone present.
+  </p>
+  <p>
+    <strong>A small but growing and active community, we are always happy to welcome guests and newcomers!</strong>
+  </p>
+  <br />
+  <a href="{{ site.assets }}/pdfs/flyer.pdf"><img src="{{ site.assets }}/flyer.png" /></a>
+  <br />
+  <br />
+
+  <aside>
+      <h2>News Update</h2>
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+  </aside>
+  <aside>
+  <div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;"><h2 class="sites-embed-title">Next gatherings</h2><div class="sites-embed-object-title" style="display:none;">International Catholic Co...unity Heidelberg, Germany</div><div class="sites-embed-content sites-embed-type-calendar"><iframe id="849643948" src="http://www.google.com/calendar/embed?src=internationalcatholiccommunity.com_mdvfpn7bon1icd6813k4o8h1g0@group.calendar.google.com&amp;color=%23668CD9&amp;mode=AGENDA&amp;ctz=Europe/Berlin&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showTabs=1&amp;showCalendars=0&amp;hl=en" title="International Catholic Co...unity Heidelberg, Germany" width="100%" height="300" frameborder="0" scrolling="no"></iframe></div></div>
+  </aside>
+
+</div>
