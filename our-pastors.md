@@ -10,4 +10,4 @@ permalink: /our-pastors/
 
 - **Father Peter Amowe** - postgraduate student at St. Georgen Jesuit University, Frankfurt
 
-![father peter and father john]({{ site.assets }}/pastors.png)
+![father peter and father john]({{ site.baseurl}}/{{ site.assets }}/pastors.png)
