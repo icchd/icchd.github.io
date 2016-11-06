@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.heidelberg-community.internationalcatholiccommunity.com"
 # twitter_username: icch
 # github_username:  icch
-assets: "/assets/"
+assets: "assets/"
 exclude: ["node_modules"]
 
 # Build settings
