@@ -14,11 +14,11 @@ description: >
     is made up of employees of different international companies, people engaged in
     studies and research at the university, and guests in this city.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "http://www.heidelberg-community.internationalcatholiccommunity.com"
 # twitter_username: icch
 # github_username:  icch
-assets: "assets/"
+assets: "assets"
 exclude: ["node_modules"]
 
 # Build settings
