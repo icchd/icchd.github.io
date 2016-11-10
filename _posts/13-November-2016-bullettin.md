@@ -1,6 +1,6 @@
 ---
 title: ICCH Bullettin of 13 November 2016
-date: 2016-11-10 07:40:16 +02:00
+date: 2016-11-10 06:40:16 +01:00
 layout: post
 ---
 
