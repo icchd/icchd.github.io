@@ -2,9 +2,6 @@
 title: International Catholic Community Heidelberg
 timezone: Europe/Berlin
 collections:
-  bullettin:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
