@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    layout: post
   uploads:
     title: Uploads
     output: true
