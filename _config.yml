@@ -2,15 +2,15 @@
 title: International Catholic Community Heidelberg
 timezone: Europe/Berlin
 collections:
+  bulletins:
+    title: Bulletins
+    output: true
   posts:
     title: Posts
     output: true
     layout: post
   uploads:
     title: Uploads
-    output: true
-  bulletins:
-    title: bulletins
     output: true
 email: infoheidelberg@internationalcatholiccommunity.com
 description: |
