@@ -51,11 +51,19 @@ layout: default
   <br />
 
   <aside>
-      <h2>News Update</h2>
+      <h2>Latest News</h2>
       <ul class="post-list">
-        {% for post in site.posts %}
+      {% assign all_news = "" | split: "" %}
+      {% for bulletin in site.bulletins %}
+          {% assign all_news = all_news | push: bulletin %}
+      {% endfor %}
+      {% for post in site.posts %}
+          {% assign all_news = all_news | push: post %}
+      {% endfor %}
+      {% assign sorted_news = all_news | sort:"date" | reverse %}
+      {% for post in sorted_news limit:7%}
           <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="post-meta">Published on {{ post.date | date: "%b %-d, %Y" }}</span>
 
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
