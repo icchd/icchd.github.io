@@ -1,6 +1,6 @@
 ---
 title: ICCH Bullettin of June 18, 2017
-date: 2017-06-18 08:17:08 +02:00
+date: 2017-06-18 08:17:00 +02:00
 layout: post
 ---
 
