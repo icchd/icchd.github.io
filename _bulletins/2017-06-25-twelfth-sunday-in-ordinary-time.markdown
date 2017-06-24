@@ -1,6 +1,6 @@
 ---
-title: ICCH Bullettin of June 25, 2017
-date: 2017-06-24 12:18:30 +02:00
+title: ICCH Bulletin of June 25, 2017
+date: 2017-06-24 12:18:00 +02:00
 layout: post
 ---
 
