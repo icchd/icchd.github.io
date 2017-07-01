@@ -12,7 +12,16 @@ layout:
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+
+    {% assign all_news = "" | split: "" %}
+    {% for bulletin in site.bulletins %}
+      {% assign all_news = all_news | push: bulletin %}
+    {% endfor %}
+    {% for post in site.posts %}
+      {% assign all_news = all_news | push: post %}
+    {% endfor %}
+    {% assign sorted_news = all_news | sort:"date" | reverse %}
+    {% for post in sorted_news limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
