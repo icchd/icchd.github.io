@@ -31,5 +31,5 @@ Image: http://bit.ly/2uu7ChV
 
 ### News 
 
-* 2 July - Our monthly social gathering comes off tomorrow, Sunday July 2nd. Please bring along something to share with the community. We look forward to meeting you! :)
-* 9 July - We will have our English Mass on Sunday July 9 at 11.00. The reason for this is to enable us join the Südstadtfest. This is an annual event that seeks to bring together parishes and groups in the region (Markusgemeinde, Gemeinde Philipp Neri, Hoffnungskirche and the Stadtteilverein Südstadt). As we are a part of this community, we encourage everyone who can make it, to be part of it. More information here: www.südstadtfest.info
+* **2 July** - Our monthly social gathering comes off tomorrow, Sunday July 2nd. Please bring along something to share with the community. We look forward to meeting you! :)
+* **9 July** - We will have our English Mass on Sunday July 9 at 11.00. The reason for this is to enable us join the Südstadtfest. This is an annual event that seeks to bring together parishes and groups in the region (Markusgemeinde, Gemeinde Philipp Neri, Hoffnungskirche and the Stadtteilverein Südstadt). As we are a part of this community, we encourage everyone who can make it, to be part of it. More information here: www.südstadtfest.info
