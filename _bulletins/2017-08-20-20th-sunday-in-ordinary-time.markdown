@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of August 20, 2017
-date: 2017-08-18 05:41:33 +02:00
+date: 2017-08-18 05:41:00 +02:00
 layout: post
 ---
 
@@ -11,7 +11,7 @@ layout: post
 
 <img style="float: left; margin-right: 1em;" src="http://www.archidiocesisgranada.es/media/k2/items/cache/d8f0e022450c762d4a4a15a6dd626fc8_XL.jpg">
 
-###"Woman, you have great faith." 
+### "Woman, you have great faith." 
 *(Mt 15:28)*
   
   
