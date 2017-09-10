@@ -23,13 +23,3 @@ assets: assets
 exclude:
 - node_modules
 markdown: kramdown
-gallery:
-  dir: assets/gallery
-  symlink: false
-  title: Photo Gallery
-  sort_field: date_time
-  thumbnail_size:
-    x: 400
-    y: 400
-gems:
-- jekyll-gallery-generator
