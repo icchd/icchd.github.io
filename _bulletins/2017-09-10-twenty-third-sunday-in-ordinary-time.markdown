@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of September 10, 2017
-date: 2017-08-25 07:05:31 +02:00
+date: 2017-09-10 06:05:31 +02:00
 layout: post
 ---
 
