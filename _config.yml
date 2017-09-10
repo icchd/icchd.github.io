@@ -1,6 +1,7 @@
 ---
 title: International Catholic Community Heidelberg
 timezone: Europe/Berlin
+future: true
 collections:
   bulletins:
     title: Bulletins
