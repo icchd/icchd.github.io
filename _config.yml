@@ -1,7 +1,6 @@
 ---
 title: International Catholic Community Heidelberg
 timezone: Europe/Berlin
-future: true
 collections:
   bulletins:
     title: Bulletins
@@ -14,6 +13,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+future: true
 email: infoheidelberg@internationalcatholiccommunity.com
 description: |
   Our English-speaking Catholic Community was born in 2013. We celebrate Mass in English, in the Church of St. Michael every Sunday at 1 pm.
