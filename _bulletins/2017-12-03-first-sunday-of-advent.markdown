@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 3, 2017
-date: 2017-12-01 11:59:35 +02:00
+date: 2017-12-01 10:59:35 +01:00
 layout: post
 ---
 
