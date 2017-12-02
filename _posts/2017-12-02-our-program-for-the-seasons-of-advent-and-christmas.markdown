@@ -39,8 +39,10 @@ prayer at 12.30pm**.
 ## Sacrament of Reconciliation
 
 Confessions in the season of Advent are scheduled for the following Sundays:
-- December 10
-- December 17
+
+* **December 10**
+
+* **December 17**
 
 Another opportunity might be offered on Dec 24; this would be announced on time at Mass and in the weekly bulletin.
 
