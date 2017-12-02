@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 3, 2017
-date: 2017-12-01 10:59:35 +01:00
+date: 2017-12-01 10:59:00 +01:00
 layout: post
 ---
 
@@ -9,7 +9,7 @@ layout: post
 **Today's Readings:** IS 63:16B-17, 19B; 64:2-7 | 1 COR 1:3-9 |       MK 13:33-37
 
 
-<img style="float: left; margin-right: 1em;" src="https://cdn.pixabay.com/photo/2014/07/31/03/25/candle-405998_960_720.jpg">
+<img style="float: left; margin-right: 1em;" src="https://obrerofiel.com/wp-content/uploads/2008/03/Que-significan-las-luces-de-navidad.jpg">
 
 This weekend the Church enters into the liturgical season of Advent. Christians proclaim that the Messiah has indeed come and that God's reign is "at hand."
 
