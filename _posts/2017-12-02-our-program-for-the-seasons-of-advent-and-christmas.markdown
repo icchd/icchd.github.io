@@ -32,7 +32,9 @@ You are invited to join us at ICCH in worship and more at the following times:
 
 * **January 14** Sunday Mass, followed by **Social Gathering**
 
+<p align="center">
 ![star_comet.png](/uploads/star_comet.png)
+</p>
 
 ## Times of Mass
 
