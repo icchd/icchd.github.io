@@ -8,6 +8,8 @@ tags:
 - program
 ---
 
+![banner for advent and christmas schedule](https://parishpres.org/wp-content/uploads/2016/11/Advent2016.jpg)
+
 You are invited to join us at ICCH in worship and more at the following times:
 
 * **December 3** Sunday Mass, followed by **Social Gathering**
@@ -29,6 +31,8 @@ You are invited to join us at ICCH in worship and more at the following times:
 * **January 7** Sunday Mass no social gathering this week!
 
 * **January 14** Sunday Mass, followed by **Social Gathering**
+
+![star_comet.png](/uploads/star_comet.png)
 
 ## Times of Mass
 
