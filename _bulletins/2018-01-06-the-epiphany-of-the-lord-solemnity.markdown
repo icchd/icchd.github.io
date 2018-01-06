@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 6, 2018
-date: 2018-01-06 07:50:32 +02:00
+date: 2018-01-06 06:50:32 +01:00
 layout: post
 ---
 
