@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 25, 2018
-date: 2018-03-24 02:42:35 +02:00
+date: 2018-03-24 01:42:35 +01:00
 layout: post
 ---
 
