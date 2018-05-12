@@ -9,7 +9,7 @@ layout: post
 **Today's Readings:** Acts 1:15-17, 20a, 20c-26 | 1 Jn 4:11-16 | Jn 17:11b-19
 
 
-<img style="float: left; margin-right: 1em;" src="https://www.maxpixel.net/static/photo/1x/Cross-Easter-Christ-Easter-Story-Bible-Faith-2167781.jpg">
+<img style="float: left; margin-right: 1em;" src="https://www.maxpixel.net/static/photo/1x/Cross-Easter-Christ-Easter-Story-Bible-Faith-2167781">
 
 **"Consecrate them in the truth. Your word is truth."**
 
@@ -31,7 +31,7 @@ Let us then pray today
 
 – that we may be people of complete integrity, that we may be filled with truth and sincerity so that what people see in us is what we truly are and wish to be: disciples of Jesus.
 
-Source: Source: Commentary on John 17:11-19, at https://livingspace.sacredspace.ie/e1074g/
+Source: Commentary on John 17:11-19, at https://livingspace.sacredspace.ie/e1074g/
 Image: open source
 
 ### News 
