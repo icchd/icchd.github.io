@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 23, 2018
-date: 2018-12-22 11:34:54 +02:00
+date: 2018-12-22 10:34:54 +01:00
 layout: post
 ---
 
