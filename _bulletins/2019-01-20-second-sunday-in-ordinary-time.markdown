@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 20, 2019
-date: 2019-01-18 11:45:04 +02:00
+date: 2019-01-18 10:45:04 +01:00
 layout: post
 ---
 
