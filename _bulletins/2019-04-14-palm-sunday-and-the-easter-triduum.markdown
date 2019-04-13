@@ -9,7 +9,7 @@ layout: post
 **Today's Readings:** Is 50:4-7 | Phil 2:6-11 | Lk 22:14-23:56
 
 
-<img style="float: left; margin-right: 1em;" src="https://cdn.pixabay.com/photo/2017/07/05/17/54/crucifix-2475417_960_720.jpg">
+<img style="float: left; margin-right: 1em;" src="http://img18114.imagevenue.com/img.php?image=30000_C155C961_DDE0_463D_9447_B847B276D06C_122_1160lo.jpeg">
 
 *Reflection on Holy Week by Pope Francis (shortened)*
 
@@ -39,9 +39,7 @@ I hope that we all will live these days well, following the Lord courageously, c
  
  ---
 
-
-
-![] (https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-9/56541993_2099094666874909_5660807925950578688_n.jpg?_nc_cat=107&_nc_ht=scontent.fmuc3-1.fna&oh=5841709f5a7d1c5c5be04c1e988528d9&oe=5D31C365)
+![](https://scontent.fmuc3-1.fna.fbcdn.net/v/t1.0-9/56541993_2099094666874909_5660807925950578688_n.jpg?_nc_cat=107&_nc_ht=scontent.fmuc3-1.fna&oh=5841709f5a7d1c5c5be04c1e988528d9&oe=5D31C365)
 
 Reflection: Pope Francis, 27 March 2013 - http://w2.vatican.va/content/francesco/en/audiences/2013/documents/papa-francesco_20130327_udienza-generale.html
 Source of image: free photo by stmkc on Pixabay
