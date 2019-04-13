@@ -9,7 +9,7 @@ layout: post
 **Today's Readings:** Is 50:4-7 | Phil 2:6-11 | Lk 22:14-23:56
 
 
-<img style="float: left; margin-right: 1em;" src="http://img18114.imagevenue.com/img.php?image=30000_C155C961_DDE0_463D_9447_B847B276D06C_122_1160lo.jpeg">
+<img style="float: left; margin-right: 1em;" src="https://i.vgy.me/7dgn6f.jpeg">
 
 *Reflection on Holy Week by Pope Francis (shortened)*
 
