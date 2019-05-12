@@ -23,4 +23,5 @@ url: http://www.international-catholic-community-heidelberg.com
 assets: assets
 exclude:
 - node_modules
+- bulletins_archive
 markdown: kramdown
