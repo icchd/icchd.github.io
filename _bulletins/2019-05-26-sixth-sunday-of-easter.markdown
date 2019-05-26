@@ -1,13 +1,12 @@
 ---
 title: ICCH Bulletin of May 26, 2019
-date: 2019-05-25 08:09:09 +02:00
+date: 2019-05-25 08:09:00 +02:00
 layout: post
 ---
 
 # May 26, 2019 Sixth Sunday of Easter
 <span style="float: right"><em>Welcome Father Cyril</em></span>
 **Today's Readings:** Acts 15:1-2, 22-29 | Rev 21:10-14, 22-23 | Jn 14:23-29
-
 
 <img style="float: left; margin-right: 1em;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rom%2C_Vatikan%2C_Basilika_St._Peter%2C_Die_Taube_des_Heiligen_Geistes_%28Cathedra_Petri%2C_Bernini%29.jpg/567px-Rom%2C_Vatikan%2C_Basilika_St._Peter%2C_Die_Taube_des_Heiligen_Geistes_%28Cathedra_Petri%2C_Bernini%29.jpg">
 
