@@ -6,7 +6,7 @@ layout: post
 
 # June 2, 2019 Seventh Sunday of Easter
 <span style="float: right"><em>Welcome Father Cyril</em></span>
-**Today's Readings:** Acts 1:1-11 | Eph 1:17-23 | Lk 24:46-53
+**Today's Readings:** Acts 7:55-60 | Rev 22:12-14, 16-17, 20 | John 17:20-26
 
 
 <img style="float: left; margin-right: 1em;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/St_stephen.jpg">
