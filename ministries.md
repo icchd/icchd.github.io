@@ -11,7 +11,7 @@ please contact the ministry leaders as indicated below:
 - Patrick Okwuosa
 
 **Eucharistic Ministers**
-- Marek Szuba
+- Benardine Ngu
 
 **Priest Pick-up Team**
 - Edem Atsiatorme
@@ -20,7 +20,7 @@ please contact the ministry leaders as indicated below:
 - Daniela Esser
 
 **Social gatherings**
-- Zeribe Nwosu
+- Magdalena Szczygiel
 
 **Children's Ministry**
 - Chika Diala
