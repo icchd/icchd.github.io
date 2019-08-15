@@ -6,12 +6,16 @@ layout: page
 
 - **Choir Practice**
 
-  12:20 every Sunday before mass
+  12:20 every Sunday before Mass
 
 - **Confessions / Sacrament of Reconciliation**
 
   Usually every 2nd Sunday of the month, immediately after
   mass
+
+- **Praying the Holy Rosary
+
+  12:30 every Sunday before Mass
 
 - **Social Gathering**
 
