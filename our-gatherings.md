@@ -13,7 +13,7 @@ layout: page
   Usually every 2nd Sunday of the month, immediately after
   mass
 
-- **Praying the Holy Rosary
+- **Praying the Holy Rosary**
 
   12:30 every Sunday before Mass
 
