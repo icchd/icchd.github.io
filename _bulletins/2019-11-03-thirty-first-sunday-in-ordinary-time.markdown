@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 3, 2019
-date: 2019-11-02 01:12:40 +02:00
+date: 2019-11-02 00:12:40 +01:00
 layout: post
 ---
 
