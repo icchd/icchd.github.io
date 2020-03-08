@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 8, 2020
-date: 2020-03-07 11:18:00 +02:00
+date: 2020-03-07 10:18:00 +01:00
 layout: post
 ---
 

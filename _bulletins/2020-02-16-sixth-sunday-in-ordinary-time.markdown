@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 16, 2020
-date: 2020-02-15 10:12:40 +02:00
+date: 2020-02-15 09:12:40 +01:00
 layout: post
 ---
 

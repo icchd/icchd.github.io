@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 24, 2019
-date: 2019-11-23 01:37:57 +02:00
+date: 2019-11-23 00:37:57 +01:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 8, 2019
-date: 2019-12-07 08:27:04 +02:00
+date: 2019-12-07 07:27:04 +01:00
 layout: post
 ---
 

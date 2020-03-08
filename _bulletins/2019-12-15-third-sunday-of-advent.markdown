@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 15, 2019
-date: 2019-12-14 10:41:32 +02:00
+date: 2019-12-14 09:41:32 +01:00
 layout: post
 ---
 
