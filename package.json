@@ -9,7 +9,8 @@
   "devDependencies": {
     "photoswipe": "^4.1.1"
   },
-  "scripts": {
+  "scripts": { 
+    "delete_bulletins": "cd _bulletins; yr=$(date +%Y); yr=$((yr-2)); ls -tp ${yr}* | grep -v '/$' | xargs -I {} rm -- {}",
     "js_photoswipe": "exit 1; cp node_modules/photoswipe/dist/photoswipe.min.js node_modules/photoswipe/dist/photoswipe-ui-default.min.js js/",
     "css_photoswipe": "exit 1; cp node_modules/photoswipe/dist/photoswipe.css css/",
     "start": "exit 1; npm run js_photoswipe && npm run css_photoswipe"
