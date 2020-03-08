@@ -25,4 +25,4 @@ Image: The Transfiguration of Christ - Bellini
 
 ### News 
 
-* **8 March** - There will be confessions in English after Mass
+* **8 March** - There will be confessions in English after Mass.
