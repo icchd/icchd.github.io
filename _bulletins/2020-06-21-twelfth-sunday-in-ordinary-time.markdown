@@ -1,12 +1,12 @@
 ---
 title: ICCH Bulletin of June 21, 2020
-date: 2020-06-20 01:44:51 +02:00
+date: 2020-06-20 01:44:00 +02:00
 layout: post
 ---
 
 # June 21, 2020 Twelfth Sunday in Ordinary Time
 <span style="float: right"><em>-</em></span>
-**Today's Readings:** Reading 1 | Reading 2 | Gospel
+**Today's Readings:** Jer 20:10-13 | Rom 5:12-15 | Mt 10:26-33
 
 
 <img style="float: left; margin-right: 1em;" src="https://cdn.pixabay.com/photo/2011/09/27/18/52/sparrow-9950_960_720.jpg">
