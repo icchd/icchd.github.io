@@ -5,9 +5,9 @@ layout: page
 
 <form id="test">
     <label for="name">Name:</label>
-    <input type="text" name="name" value="" placeholder="e.g., James Smith" />
+    <input type="text" name="name" value="" placeholder="e.g., John" />
     <br />
-    <label for="number">Number of people:</label><input type="text" name="number" value="" placeholder="e.g., James Smith" />
+    <label for="number">Number of attendees:</label><input type="text" name="number" value="" placeholder="e.g., 2" />
     <br />
     <button id="send">Submit</button>
 </form>
@@ -43,9 +43,20 @@ layout: page
                     var oResponseJson = JSON.parse(xhr.responseText);
                     if (oResponseJson.success) {
                         document.getElementById("success").style.display = "block";
+                        if (oResponseJson.message) {
+                            document.getElementById("success_message").innerText = oResponseJson.message;
+                        }
+                    } else {
+                        document.getElementById("error").style.display = "block";
+                        if (oResponseJson.message) {
+                            document.getElementById("error_message").innerText = oResponseJson.message;
+                        }
                     }
                 } catch (e) {
                     document.getElementById("error").style.display = "block";
+                    if (oResponseJson.message) {
+                        document.getElementById("error_message").innerText = oResponseJson.message;
+                    }
                 }
             }
             else if (xhr.status !== 200) {
