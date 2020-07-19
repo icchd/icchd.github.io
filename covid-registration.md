@@ -36,6 +36,10 @@ layout: page
 </div>
 
 <script>
+    if (window.location.protocol.indexOf("https") >= 0) {
+        window.location.protocol = "http"; // API does not support https unfortunately!
+    }
+
     var $retry = document.getElementById("refresh");
     $retry.addEventListener("click", function (e) {
         window.location.reload();
