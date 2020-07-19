@@ -3,19 +3,35 @@ permalink: "/mass-attendance-registration-form/"
 layout: page
 ---
 
-<form id="test">
-    <label for="name">Name:</label>
-    <input type="text" name="name" value="" placeholder="e.g., John" />
+<form style="display: none" id="test">
+    Registration is <span style="font-weight: bold; color: #0A0">open</span> for <span id="massDate" style="font-weight: bold">next Sunday's mass</span>.
     <br />
-    <label for="number">Number of attendees:</label><input type="text" name="number" value="" placeholder="e.g., 2" />
+    <span style="color: #999">Please enter one name and the total number of attendees we can expect at mass. We will use the data you have entered solely to check attendance on mass day. We will not retain these data or forward them to third parties.</span>
     <br />
+    <br />
+    <ul>
+        <li>
+            <label for="name">Name:</label>
+            <input type="text" name="name" value="" placeholder="e.g., John Doe" />
+        </li>
+        <li>
+            <label for="number">Total number of attendees:</label><input type="number" name="number" min="1" max="10" value="1" />
+            <span style="color: #0A0"><span id="availableSeats" style="font-weight: bold">0</span> seats available.</span>
+        </li>
+    </ul>
     <button id="send">Submit</button>
 </form>
+<div id="availability" style="color: #AAA">
+    <h3 id="availability_message">Loading, please wait...</h3>
+</div>
+<div id="progress" style="display: none; color: #AAA">
+    <h3 id="progress_message">Registration in progress...</h3>
+</div>
 <div id="success" style="display: none; color: #0A0">
-    <h2 id="success_message">Thank you for registering. See you at mass!</h2>
+    <h3 id="success_message">Thank you for registering. See you at mass!</h3>
 </div>
 <div id="error" style="display: none; color: #A00">
-    <h2 id="error_message">An error occurred with the registration. Please try again later.</h2>
+    <h3 id="error_message">An error occurred. Please try again later.</h3>
     <button id="refresh">Retry</button>
 </div>
 
@@ -31,6 +47,9 @@ layout: page
         e.stopPropagation();
         e.stopImmediatePropagation();
 
+        document.getElementsByTagName("form")[0].style.display = "none";
+        document.getElementById("progress").style.display = "block";
+
         // request via icch-api
         xhr = new XMLHttpRequest();
 
@@ -38,7 +57,8 @@ layout: page
         xhr.setRequestHeader('Content-Type', 'application/json');
         xhr.onload = function() {
             if (xhr.status === 200) {
-                document.getElementsByTagName("form")[0].style.display = "none";
+                document.getElementById("progress").style.display = "none";
+
                 try {
                     var oResponseJson = JSON.parse(xhr.responseText);
                     if (oResponseJson.success) {
@@ -71,4 +91,39 @@ layout: page
         };
         xhr.send(JSON.stringify(oDataJson));
     });
+
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'http://icch-api.cloudno.de/mass-registration-check');
+    xhr.onload = function() {
+        document.getElementById("availability").style.display = "none";
+
+        if (xhr.status === 200) {
+            try {
+                var oResponseJson = JSON.parse(xhr.responseText);
+                if (oResponseJson.success) {
+                    if (oResponseJson.places <= 0) {
+                        document.getElementById("error_message").innerText = "We are sorry, all available seats were booked for " + oResponseJson.date + ". Please come back later to this page to register for the next mass.";
+                        document.getElementById("error").style.display = "block";
+                        return;
+                    }
+
+                    document.getElementById("massDate").innerText = oResponseJson.date;
+                    document.getElementById("availableSeats").innerText = oResponseJson.places;
+                    document.getElementsByTagName("form")[0].style.display = "block";
+                } else {
+                    document.getElementById("error").style.display = "block";
+                    if (oResponseJson.message) {
+                        document.getElementById("error_message").innerText = oResponseJson.message;
+                    }
+                }
+            } catch (e) {
+                document.getElementById("error").style.display = "block";
+                if (console) { console.log(e); }
+            }
+        } else {
+            document.getElementById("error").style.display = "block";
+        }
+    };
+xhr.send();
 </script>
