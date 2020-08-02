@@ -98,7 +98,8 @@ layout: page
 
 
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'http://icch-api.cloudno.de/mass-registration-check');
+    // xhr.open('GET', 'http://icch-api.cloudno.de/mass-registration-check');
+    xhr.open('GET', 'http://localhost:8081/mass-registration-check');
     xhr.onload = function() {
         document.getElementById("availability").style.display = "none";
 
@@ -106,6 +107,11 @@ layout: page
             try {
                 var oResponseJson = JSON.parse(xhr.responseText);
                 if (oResponseJson.success) {
+                    if (oResponseJson.status === "closed") {
+                        document.getElementById("error_message").innerText = "We are sorry, the registration for " + oResponseJson.date + " is currently closed. We will open it if enough volunteers are available to support the service on that date.";
+                        document.getElementById("error").style.display = "block";
+                        return;
+                    }
                     if (oResponseJson.places <= 0) {
                         document.getElementById("error_message").innerText = "We are sorry, all available seats were booked for " + oResponseJson.date + ". Please come back later to this page to register for the next mass.";
                         document.getElementById("error").style.display = "block";
