@@ -13,6 +13,7 @@ This group of active members of the community meets every other month, thus abou
 | Daniela E.  | Communications Team, Lectors' Ministry |
 | Edem A.     | Communications Team, Set-up Ministry |
 | Luis G.     | Set-up |
-| Marco C.    | Music / Choir |
+| Daria P.    | Music / Choir |
 | Patrick O.  | Altar Servers' Ministry |
+| Magda S.    | Social Gathering |
 | Savio D.    | Website / facebook |

@@ -13,12 +13,15 @@ layout: page
   Usually every 2nd Sunday of the month, immediately after
   mass
 
-- **Praying the Holy Rosary**
+- **~~Praying the Holy Rosary~~** (_suspended till further notice_)
 
+  {% comment %} 
   12:30 every Sunday before Mass
+   {% endcomment %}
 
-- **Social Gathering**
+- **~~Social Gathering~~** (_suspended till further notice_)
 
+  {% comment %}
   As one of our regular activities, we organize a
   get-together on a monthly basis, usually on the **first
   Sunday of the month**. (*Please check the latest bulletin*.)
@@ -30,6 +33,7 @@ layout: page
   course, to enjoy food and drinks alongside. 
 
   **Come and join** - and if possible, bring a dish to share!
+{% endcomment %}
 
 All gatherings are held in our church:
 
