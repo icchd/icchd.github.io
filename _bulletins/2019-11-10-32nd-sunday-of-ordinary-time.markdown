@@ -24,7 +24,7 @@ In this month of November we are invited to remember in love and gratitude those
 (...) When death touches us personally amongst the many reactions and emotions which surface, we are again reminded of our own mortality. It is the one reality I am absolutely sure of ! It is an invitation to recognise this truth with a deep sense of peace and indeed joy. It is in recognising my own mortality that I learn to appreciate life now, in all its richness, that I learn to live with gratefulness and enthusiasm receiving each day as gift.
 
 Source: Reflection by Sister Tess Rynn SNDdeN, on https://www.sndden.org/gospel-reflections/thirty-second-sunday-in-ordinary-time-2/
-Image "Resurrection of the dead" - source: Wikimedia Commons {{Bene16|CC BY-SA 2.5}}
+Image "Resurrection of the dead" - source: Wikimedia Commons \{\{Bene16|CC BY-SA 2.5}}
 
 ### News 
 
