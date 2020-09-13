@@ -4,7 +4,7 @@ permalink: "/covid-19/"
 layout: page
 ---
 The current situation of the COVID-19 pandemic presents us as a community of believers with new challenges as we carry out our major responsibility of protecting all, especially participants of our gatherings. To guide this process, we at ICCH have developed a hygiene and safety concept, based on the guidelines established by the Archdiocese of Freiburg. Below is a summary of the most important aspects which is worthy of note before partaking in our Masses:
-- Pre-registration for Mass is required and can be carried out by visiting this <a href="http://www.international-catholic-community-heidelberg.com/mass-attendance-registration-form/"> link.
+- Pre-registration for Mass is required and can be carried out by visiting this <a href="http://www.international-catholic-community-heidelberg.com/mass-attendance-registration-form/">link</a>.
 - There are designated markings (pathways and seating arrangements) in the church which have to be respected at all times. A minimum distance of 2m should be maintained between individuals or families.
 - Disinfect your hands at the entrance where hand disinfectant has been made available.
 - The wearing of nose masks is encouraged when moving around. Once seated, however, it is not obligatory.
