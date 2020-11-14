@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 15, 2020
-date: 2020-11-14 05:25:55 +02:00
+date: 2020-11-14 04:25:55 +01:00
 layout: post
 ---
 
