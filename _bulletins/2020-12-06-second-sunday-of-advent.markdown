@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 6, 2020
-date: 2020-12-05 08:42:08 +02:00
+date: 2020-12-05 07:42:08 +01:00
 layout: post
 ---
 
