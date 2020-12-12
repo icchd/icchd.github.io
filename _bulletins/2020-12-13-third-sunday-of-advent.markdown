@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 13, 2020
-date: 2020-12-11 10:11:20 +02:00
+date: 2020-12-11 09:11:20 +01:00
 layout: post
 ---
 
