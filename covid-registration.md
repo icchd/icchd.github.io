@@ -98,7 +98,12 @@ layout: page
 
 
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'http://icch-api.cloudno.de/mass-registration-check');
+    var masscheckUrl = "http://icch-api.cloudno.de/mass-registration-check";
+    var dateMatch = window.location.href.match(/[?]date=(\d\d\d\d\d\d\d\d)/);
+    if (dateMatch) {
+        masscheckUrl += "?date=" + dateMatch[1];
+    }
+    xhr.open('GET', masscheckUrl);
     
     xhr.onload = function() {
         document.getElementById("availability").style.display = "none";
