@@ -95,7 +95,7 @@ layout: page
         };
         var dateMatch = window.location.href.match(/[?]date=(\d\d\d\d\d\d\d\d)/);
         if (dateMatch) {
-            oDateJson.date = dateMatch[1];
+            oDataJson.date = dateMatch[1];
         }
         xhr.send(JSON.stringify(oDataJson));
     });
