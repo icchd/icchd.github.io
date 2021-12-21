@@ -93,10 +93,6 @@ layout: page
             name: document.querySelector("[name=name]").value,
             number: document.querySelector("[name=number]").value
         };
-        var dateMatch = window.location.href.match(/[?]date=(\d\d\d\d\d\d\d\d)/);
-        if (dateMatch) {
-            oDateJson.date = dateMatch[1];
-        }
         xhr.send(JSON.stringify(oDataJson));
     });
 
