@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 19, 2021
-date: 2021-12-18 11:39:50 +02:00
+date: 2021-12-18 10:39:50 +01:00
 layout: post
 ---
 

@@ -4,9 +4,9 @@ permalink: "/our-pastors/"
 layout: page
 ---
 
-- **Father Cyril Okeke** - postgraduate student at St. Georgen Jesuit University, Frankfurt
+- **Father Martin Müller SJ** -
 
-![father cyril]({{ site.baseurl}}/{{ site.assets }}/frcyrilokeke.png){:height="20%" width="20%"}
+<!-- ![father cyril]({{ site.baseurl}}/{{ site.assets }}/frcyrilokeke.png){:height="20%" width="20%"} -->
 
 
 **Previous priests**
@@ -14,3 +14,5 @@ layout: page
 - _Father Peter Egielewa_
 - _Father John Edosomwan_
 - _Father Peter Amowe_
+- _Father Mathew Ngwoke_
+- _Father Cyril Okeke_

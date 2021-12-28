@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 14, 2021
-date: 2021-11-14 01:51:41 +02:00
+date: 2021-11-14 00:51:41 +01:00
 layout: post
 ---
 

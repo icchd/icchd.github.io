@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 31, 2021
-date: 2021-01-30 04:00:22 +02:00
+date: 2021-01-30 03:00:22 +01:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 17, 2021
-date: 2021-01-16 09:54:00 +02:00
+date: 2021-01-16 08:54:00 +01:00
 layout: post
 ---
 

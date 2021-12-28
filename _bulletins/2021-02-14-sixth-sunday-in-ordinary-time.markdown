@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 14, 2021
-date: 2021-02-13 09:30:15 +02:00
+date: 2021-02-13 08:30:15 +01:00
 layout: post
 ---
 

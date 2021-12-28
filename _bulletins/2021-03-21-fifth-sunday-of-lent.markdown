@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 21, 2021
-date: 2021-03-20 10:34:10 +02:00
+date: 2021-03-20 09:34:10 +01:00
 layout: post
 ---
 
