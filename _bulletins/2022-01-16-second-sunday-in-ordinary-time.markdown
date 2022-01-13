@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 16, 2022
-date: 2022-01-13 10:25:39 +02:00
+date: 2022-01-13 09:25:39 +01:00
 layout: post
 ---
 
