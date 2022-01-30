@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 30, 2022
-date: 2022-01-29 11:38:00 +02:00
+date: 2022-01-29 10:38:00 +01:00
 layout: post
 ---
 
