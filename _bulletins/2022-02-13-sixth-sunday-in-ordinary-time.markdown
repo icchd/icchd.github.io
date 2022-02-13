@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 13, 2022
-date: 2022-02-13 10:50:30 +02:00
+date: 2022-02-13 09:50:30 +01:00
 layout: post
 ---
 
