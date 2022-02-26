@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 27, 2022
-date: 2022-02-26 11:01:13 +02:00
+date: 2022-02-26 10:01:13 +01:00
 layout: post
 ---
 
