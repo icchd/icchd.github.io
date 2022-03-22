@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 20, 2022
-date: 2022-03-19 05:53:50 +02:00
+date: 2022-03-19 04:53:50 +01:00
 layout: post
 ---
 
