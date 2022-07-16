@@ -1,0 +1,21 @@
+---
+title: ICCH Bulletin of July 17, 2022
+date: 2022-07-16 11:49:53 +02:00
+layout: post
+---
+
+# July 17, 2022 Sixteenth Sunday in Ordinary Time
+<span style="float: right"><em>Welcome Father Martin</em></span>
+**Today's Readings:** Gn 18:1-10a | Col 1:24-28 | Lk 10:38-42
+
+
+<img style="float: left; margin-right: 1em;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/415px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg">
+
+According to our sacred doctrine, there are two forms of life, the active and the contemplative. The active form of life is prior to the contemplative form, because one arrives at contemplation from good work. But the contemplative form of life beckons a higher reward than the active one. The active life labours by practising the works of the present, whereas the contemplative life already tastes the coming rest in inner enjoyment. This is aptly illustrated in the Gospel by the two women Martha and Mary. "Martha was wholly occupied with manifold ministries, while Mary sat at the Lord's feet and listened to his words." Thus the one was intent on working, the other on contemplating. The one devoted herself in outward service to the active life, the other to the contemplative life, directing the attention of her heart to the Word. And although the active life is good, the contemplative life is better, for the former ceases with the mortal life, the latter with the life of the soul grows to greater fullness in eternal life. Therefore it is said: "Mary has chosen the best part, which shall not be taken from her." Both forms of life are given to us as a gift of grace. However, as long as we live with our neighbours, the active life is a necessity for us, while the contemplative life is in our will. Only those who do good works beforehand will know God and enter his kingdom. Therefore, he who does not neglect the good works he can do enter the heavenly fatherland even without contemplation. But he cannot enter without active life, not if he neglects the good works he can do. The one form of life is thus indispensable, while the other is optional.
+
+Source: from a sermon by Pope Gregory the Great on the prophet Ezekiel 1,3,9f
+Image: Johannes (Jan) Vermeer - Christ in the House of Martha and Mary
+
+
+
+
