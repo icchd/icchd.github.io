@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of October 30, 2022
-date: 2022-10-30 12:16:00 +02:00
+date: 2022-10-30 11:16:00 +01:00
 layout: post
 ---
 
