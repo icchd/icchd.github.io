@@ -8,22 +8,13 @@ If you would like to participate in a certain ministry,
 please contact the ministry leaders as indicated below:
    
 **Altar Servers**
-- Patrick Okwuosa
-
-**Eucharistic Ministers**
-- Benardine Ngu
-
-**Priest Pick-up Team**
-- Edem Atsiatorme
+- Daniela Esser
 
 **Lectors**
 - Daniela Esser
 
-**Social gatherings**
-- Magdalena Szczygiel
-
 **Children's Ministry**
-- Chika Diala
+- Daniela Esser
 
 **Communications / contact to Parish Team**
 - Edem Atsiatorme
