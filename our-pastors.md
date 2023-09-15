@@ -4,9 +4,9 @@ permalink: "/our-pastors/"
 layout: page
 ---
 
-- **Father Eckhard Bieger** -
-- **Father Bernward Onuoha** -
-- **Vikar Daniel Johann** -
+- **Father Eckhard Bieger**
+- **Father Bernward Onuoha**
+- **Vikar Daniel Johann**
 
 <!-- ![father cyril]({{ site.baseurl}}/{{ site.assets }}/frcyrilokeke.png){:height="20%" width="20%"} -->
 
