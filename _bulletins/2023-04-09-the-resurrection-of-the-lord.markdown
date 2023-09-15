@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of April 9, 2023
-date: 2022-12-18 01:35:13 +02:00
+date: 2022-12-18 00:35:13 +01:00
 layout: post
 ---
 

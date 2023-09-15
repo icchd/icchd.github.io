@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 5, 2023
-date: 2023-03-05 12:04:08 +02:00
+date: 2023-03-05 11:04:08 +01:00
 layout: post
 ---
 

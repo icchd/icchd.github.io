@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 26, 2023
-date: 2023-02-25 10:52:43 +02:00
+date: 2023-02-25 09:52:43 +01:00
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 8, 2023
-date: 2023-01-07 03:45:20 +02:00
+date: 2023-01-07 02:45:20 +01:00
 layout: post
 ---
 

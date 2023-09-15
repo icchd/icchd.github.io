@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 13, 2022
-date: 2022-11-13 12:37:51 +02:00
+date: 2022-11-13 11:37:51 +01:00
 layout: post
 ---
 

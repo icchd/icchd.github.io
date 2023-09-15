@@ -13,9 +13,9 @@ layout: page
   Usually every 2nd Sunday of the month, immediately after
   mass
 
+  {% comment %} 
 - **~~Praying the Holy Rosary~~** (_suspended till further notice_)
 
-  {% comment %} 
   12:30 every Sunday before Mass
    {% endcomment %}
 

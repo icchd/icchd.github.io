@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 22, 2023
-date: 2023-01-22 12:25:53 +02:00
+date: 2023-01-22 11:25:53 +01:00
 layout: post
 ---
 
