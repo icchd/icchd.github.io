@@ -8,12 +8,9 @@ The Parish Team helps organize our ministries and activities, perceives the need
 This group of active members of the community meets every other month, thus about 5 or 6 times a year, for about 1.5 hrs, and is always happy to welcome new team members in their midst! 
 
 | Angela M.   | Lectors' Ministry |
-| Benardine N.| EM, lector |
-| Chika D.    | Childrens' Ministry |
-| Daniela E.  | Communications Team, Lectors' Ministry |
+| Daniela E.  | Communications Team, Lectors' Ministry, Altar Servers' Ministry |
 | Edem A.     | Communications Team, Set-up Ministry |
-| Luis G.     | Set-up |
 | Daria P.    | Music / Choir |
-| Patrick O.  | Altar Servers' Ministry |
-| Magda S.    | Social Gathering |
 | Savio D.    | Website / facebook |
+| Helen K.    | Lectors' Ministry |
+| Samuel G.   | Music / Choir |
