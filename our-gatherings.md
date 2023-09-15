@@ -19,7 +19,7 @@ layout: page
   12:30 every Sunday before Mass
    {% endcomment %}
 
-- **~~Social Gathering~~** (_suspended till further notice_)
+- **Social Gathering**
 
   {% comment %}
   As one of our regular activities, we organize a
