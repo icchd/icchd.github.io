@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of October 29, 2023
-date: 2023-10-28 10:08:18 +02:00
+date: 2023-10-28 10:08:00 +02:00
 layout: post
 ---
 
@@ -28,4 +28,4 @@ Image: James Tissot - The Pharisees and the Saduccees Come to Tempt Jesus
 
 ### News 
 
-* **29 October** - New Appointment 1
+* **29 October** - There will be confessions in English after Mass on Sunday, October 29th
