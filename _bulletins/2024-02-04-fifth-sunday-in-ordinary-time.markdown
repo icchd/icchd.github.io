@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 4, 2024
-date: 2024-02-04 12:55:31 +02:00
+date: 2024-02-04 11:55:31 +01:00
 layout: post
 ---
 

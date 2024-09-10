@@ -1,6 +1,7 @@
 ---
 title: COVID-19
 permalink: "/covid-19/"
+published: false
 layout: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 10, 2023
-date: 2023-12-10 12:37:56 +02:00
+date: 2023-12-10 11:37:56 +01:00
 layout: post
 ---
 

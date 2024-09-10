@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 10, 2024
-date: 2024-03-09 11:33:45 +02:00
+date: 2024-03-09 10:33:45 +01:00
 layout: post
 ---
 
