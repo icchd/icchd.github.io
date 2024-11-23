@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 24, 2024
-date: 2024-11-23 10:38:40 +02:00
+date: 2024-11-23 09:38:40 +01:00
 layout: post
 ---
 
