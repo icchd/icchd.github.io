@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of December 8, 2024
-date: 2024-12-07 03:14:14 +02:00
+date: 2024-12-07 02:14:14 +01:00
 layout: post
 ---
 
