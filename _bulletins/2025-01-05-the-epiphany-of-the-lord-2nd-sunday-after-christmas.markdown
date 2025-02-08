@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 5, 2025
-date: 2025-01-04 08:44:16 +02:00
+date: 2025-01-04 07:44:16 +01:00
 layout: post
 ---
 
