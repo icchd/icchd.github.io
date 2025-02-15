@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 16, 2025
-date: 2025-02-15 10:30:32 +02:00
+date: 2025-02-15 09:30:32 +01:00
 layout: post
 ---
 
