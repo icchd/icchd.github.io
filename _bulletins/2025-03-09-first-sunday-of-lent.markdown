@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 9, 2025
-date: 2025-03-08 11:27:54 +02:00
+date: 2025-03-08 10:27:54 +01:00
 layout: post
 ---
 
