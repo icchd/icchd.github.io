@@ -1,0 +1,52 @@
+---
+title: ICCH Bulletin of March 30, 2025
+date: 2025-03-15 02:10:21 +02:00
+layout: post
+---
+
+# March 30, 2025 Fourth Sunday of Lent
+<span style="float: right"><em>Welcome Father Eckhard!</em></span>
+**Today's Readings:** Josh 5:9a, 10-12 | 2 Cor 5:17-21 | Lk 15:1-3, 11-32
+
+
+<img style="float: left; margin-right: 1em;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Eugene_Burnand_-_Heimgefunden.jpg/375px-Eugene_Burnand_-_Heimgefunden.jpg?20100711122121">
+
+#### The Ministry of Reconciliation
+
+Ask ten people to tell the story of the prodigal son, and chances are that eight or nine of them will manage to retrieve the basic plot. It is, after all, one of the best-known stories in the world.
+But ask those same ten people, “On what occasion did Jesus tell that story?” and it is unlikely that any of them will know. The story is so powerful and clear that it has taken on a life of its own. Yet Luke was very careful to provide a definite setting for the story in his Gospel. Attending to that context discloses further depths in an already deeply meaningful parable.
+
+Luke establishes the setting in a single sentence. “The tax collectors and sinners were all drawing near to listen to him, but the Pharisees and scribes began to complain, saying, 'This man welcomes sinners and eats with them'” (Second Reading). This critique recalls the scene in Luke 5:27-32, Levi's dinner party, where the Pharisees and their scribes raise the same complaint, and Jesus replies, “Those who are healthy do not need a physician, but the sick do. I have not come to call the righteous but sinners to repentance.”
+
+The sentence beginning today's reading evokes the same scene and issue. Again Jesus responds with a defense of his table fellowship with the outcast—only this time his strategy is storytelling. He begins with two similitudes, parables that base their comparison on a recurring social situation.
+
+The first is the one about the shepherd going after the lost sheep; the second, the one about the woman searching for a treasured lost coin. The point of each image is double-edged. The shepherd and the woman both picture the divine attitude of care for the repentant sinner; the rejoicing in each similitude represents Jesus’ own table fellowship with (repentant) tax collectors and sinners.
+
+Finally, to drive his point home, Jesus follows these stories of the lost sheep and the lost coin with his story of the two lost sons. Yes, we find that the famous “Prodigal Son” story comes as the climax in a series of three, all in the same setting. Familiar as it is, the parable is full of surprises if we take it slowly, attending to the details.
+
+The first surprise is a shocker: the younger son dares to ask his father for his inheritance—“pre-posthumously!”—an intolerably dishonorable request in that, or any, culture.
+
+Second surprise: the elder son says nothing.
+
+Third surprise: the father actually goes along with the idea and divides the property between the two sons.
+
+Fourth surprise: the younger son turns the property into liquid capital, departs, and shoots the whole wad in Gentile territory, where he is reduced to tending pigs and nearly starving.
+
+ Fifth surprise: when the runaway returns with a plan to relate to his family as a salaried worker, his father welcomes him back with multiple signs of full reconciliation: the father's own festal robe, the family signet ring, and sandals—clearly marking him as family as distinguished from the (barefoot) servants.
+
+Sixth surprise: the father ensures reconciliation with the whole village by throwing a huge party around a roasted fatted calf.
+
+Surprise number seven is the one experienced by the elder son when he returns from the field to discover this unscheduled party celebrating his wastrel brother's return. His reaction is bitter: “All these years I slaved for you and never disobeyed one of your commandments” (a literal rendering of the Greek).
+
+Notice what happens when we hear all this in Luke's setting, Jesus defending his inclusive table fellowship against the charges of the scribes and Pharisees. In the portraits of the runaway and of the compassionate father, the tax collectors and sinners hear a confirmation of the reconciliation they have found in Jesus' ministry to them. Whereas the scribes and Pharisees are invited to contemplate an image of themselves in the cartoon figure of the elder son, who has completely misread his filial relationship as one of slavery—a clear parody of their misguided sense of religion.
+
+When Paul writes to the competitive Corinthians that God, who has reconciled us to himself through Christ, has given us a ministry of reconciliation, he is clearly calling all Christians to that same ministry. If we find ourselves resonating with bitterness of the elder son, we have some repentance to do. 
+
+Source of reflection: © 2001, Dennis Hamm, SJ, on https://liturgy.sluhostedsites.org/4LentC033025/theword_hamm.html
+Source of image: "Heimgefunden" by Eugène Burnand, 1900, https://commons.wikimedia.org/wiki/File:Eugene_Burnand_-_Heimgefunden.jpg
+
+### News 
+
+* **30 March** - Opportunity for **confessions** after Mass. For further opportunities to receive the Sacrament of Reconciliation, see below.
+* **6 April** - Social Gathering after Mass: Please consider bringing snacks or preparing food to share, or help with the set-up from 12:30 on.
+* **13 April** - Additional opportunity for confessions before Easter, after Mass, as well as on Holy Thursday before Mass.
