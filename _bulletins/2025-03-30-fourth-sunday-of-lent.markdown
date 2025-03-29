@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 30, 2025
-date: 2025-03-15 02:10:21 +02:00
+date: 2025-03-15 01:10:21 +01:00
 layout: post
 ---
 
