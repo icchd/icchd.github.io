@@ -8,17 +8,17 @@ If you would like to participate in a certain ministry,
 please contact the ministry leaders as indicated below:
    
 **Altar Servers**
-- Daniela Esser
+- Daniela E.
 
 **Lectors**
-- Marlys Dewor
+- Marlys D.
 
 **Children's Ministry**
-- Daniela Esser
+- Daniela E.
 
 **Communications / contact to Parish Team**
-- Edem Atsiatorme
-- Daniela Esser
+- Edem A.
+- Daniela E.
 
 
 # Volunteering at ICCH
