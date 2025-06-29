@@ -4,6 +4,8 @@ permalink: "/driving-directions/"
 layout: page
 ---
 
+**Please note that the ICCH is relocating to St. Bartholomäus (Wallstraße 27, 69123 Wieblingen) from 14th July 2025. Weekly Sunday Mass time remains at 13.00.**
+
 **[St. Michael](https://maps.google.com/maps?q=Kirschgartenstra%C3%9Fe+35,+Heidelberg,+Germany&hl=en&ie=UTF8&sll=49.388464,8.688504&sspn=0.007878,0.01929&hnear=Kirschgartenstra%C3%9Fe+35,+69126+Heidelberg,+Karlsruhe,+Baden-W%C3%BCrttemberg,+Germany&t=m&z=16&iwloc=A)**<br/>
 Kirschgartenstrasse 35<br/>
 69126 Heidelberg Südstadt<br />
