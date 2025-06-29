@@ -11,7 +11,7 @@ please contact the ministry leaders as indicated below:
 - Daniela Esser
 
 **Lectors**
-- Daniela Esser
+- Marlys Dewor
 
 **Children's Ministry**
 - Daniela Esser
