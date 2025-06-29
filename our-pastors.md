@@ -5,8 +5,8 @@ layout: page
 ---
 
 - **Father Eckhard Bieger**
-- **Father Bernward Onuoha**
 - **Vikar Daniel Johann**
+- **Father Chinedu Nweke**
 
 <!-- ![father cyril]({{ site.baseurl}}/{{ site.assets }}/frcyrilokeke.png){:height="20%" width="20%"} -->
 
@@ -19,3 +19,4 @@ layout: page
 - _Father Mathew Ngwoke_
 - _Father Cyril Okeke_
 - _Father Martin Müller SJ_
+- _Father Bernward Onuoha_
