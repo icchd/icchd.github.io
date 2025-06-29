@@ -4,6 +4,8 @@ permalink: "/our-gatherings/"
 layout: page
 ---
 
+***Please note that the ICCH is relocating to St. Bartholomäus (Wallstraße 27, 69123 Wieblingen) from 14th July 2025. Weekly Sunday Mass time remains at 13.00.***
+
 - **Choir Practice**
 
   12:20 every Sunday before Mass
