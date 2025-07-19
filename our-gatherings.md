@@ -4,7 +4,7 @@ permalink: "/our-gatherings/"
 layout: page
 ---
 
-***Please note that the ICCH is relocating to St. Bartholomäus (Wallstraße 27, 69123 Wieblingen) from 14th July 2025. Weekly Sunday Mass time remains at 13.00.***
+***Please note that the ICCH has since July 2025 relocated to St. Bartholomäus (Wallstraße 27, 69123 Wieblingen). Weekly Sunday Mass time remains at 13.00.***
 
 - **Choir Practice**
 
@@ -39,7 +39,7 @@ layout: page
 
 All gatherings are held in our church:
 
-*St. Michael*<br />
-Kirschgartenstr. 35<br />
-69126 Heidelberg Südstadt<br />
+*St. Bartholomäus*<br />
+Wallstraße 27/1<br />
+69123 Heidelberg<br />
 
