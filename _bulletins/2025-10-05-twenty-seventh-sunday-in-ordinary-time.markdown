@@ -1,0 +1,40 @@
+---
+title: ICCH Bulletin of October 5, 2025
+date: 2025-10-04 09:45:49 +02:00
+layout: post
+---
+
+# October 5, 2025 Twenty-seventh Sunday in Ordinary Time
+<span style="float: right"><em>Welcome Father Eckhard</em></span>
+**Today's Readings:** Hab 1:2-3; 2:2-4 | 2 Tm 1:6-8, 13-14 | Lk 17:5-10
+
+
+<img style="float: left; margin-right: 1em;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vincent_van_Gogh_-_Moerbeiboom.jpg/330px-Vincent_van_Gogh_-_Moerbeiboom.jpg">
+
+_Gospel Summary_:
+
+Luke is still leading us toward Jerusalem, the place where we turn everything over to God. In the verses that precede today’s gospel passage, Jesus has challenged his disciples to forgive offenders as many as seven times each day. This seems almost impossible and so the disciples ask Jesus to increase their faith, i.e. to give them the courage and the strength needed to live according to such high ideals.
+
+Jesus agrees that their faith must grow and, when he says that real faith could cause a mulberry tree to be transplanted into the sea, he is using a metaphor to tell them how radically their lives would change if they would only allow him to fill them with his own vision of life. Moving a mulberry tree would be nothing compared to the radical transformation of the landscape of their lives that would come from generous faith.
+
+The story that follows about a servant who should not expect special recognition just because he has done his duty illustrates in a very graphic way some consequences that flow from this radically new faith vision that should be characteristic of our daily lives.
+
+_Life Implications_:
+
+It is a little disconcerting to hear Jesus telling the servants who have done their duty that they are to consider themselves “unprofitable.” Most translations falter here. The Greek original suggests simply that these servants should not expect anything further, i.e. that they should not be looking for special attention or approval.
+
+In the context, this means that their faith has proven deficient. If they had real faith, they would be so confident and joyful that they would not need to be looking constantly for approval and reassurance of their worth. Their confidence would come from the love of God that they experience to the extent that they no longer need to be stroked or coddled as if job-approval was all that mattered in life. This does not mean that one should be careless about the quality of one’s work, but it does mean that the only ultimately satisfying approval comes from the sure experience of God’s loving presence.
+
+There is a lesson here also for those who are especially needy, such as the sick or disabled. They certainly deserve our personal, loving attention and care, but they too, like the “unprofitable servants,” can sometimes be more demanding and ungrateful than their condition warrants.
+
+Saint Benedict, who was a wise observer of human foibles, offers sound advice in this regard: “Let the sick…bear in mind that they are served out of honor for God, and let them not by their excessive demands distress their brothers who serve them.” The key is to be in touch with God and then it will not be necessary to play the victim, whether one is an “unappreciated” servant or an unhappy patient.
+
+Caregivers are often required to have almost heroic patience in their work. I have often thought that they should try to understand that their cranky patients are probably angry with God and not with them. These patients are still struggling to accept what has happened to them and we should not take their resistance too personally. After all, it takes time to realize that God’s love is sometimes expressed in ways we do not understand.
+
+Source: Demetrius R. Dumm, O.S.B.
+Image: Mulberry Tree, Vincent van Gogh, 1889
+
+### News 
+
+* **5 October** - There will be Social Gathering as announced after Mass. Please bring along a dish to share and also volunteer to help set-up or clean up.
+* **5 October** - Due to unforeseen circumstances, Children`s Church cannot come off this Sunday. We apologize for the inconvenience.
