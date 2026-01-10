@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of November 9, 2025
-date: 2025-11-06 11:56:40 +02:00
+date: 2025-11-06 10:56:40 +01:00
 layout: post
 ---
 
