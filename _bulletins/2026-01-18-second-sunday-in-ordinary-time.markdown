@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of January 18, 2026
-date: 2026-01-17 03:18:07 +02:00
+date: 2026-01-17 02:18:07 +01:00
 layout: post
 ---
 
