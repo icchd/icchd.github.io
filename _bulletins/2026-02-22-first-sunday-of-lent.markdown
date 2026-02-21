@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of February 22, 2026
-date: 2026-02-07 08:00:00 +02:00
+date: 2026-02-07 07:00:00 +01:00
 layout: post
 ---
 
