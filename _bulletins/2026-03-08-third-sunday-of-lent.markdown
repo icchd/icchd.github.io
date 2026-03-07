@@ -1,6 +1,6 @@
 ---
 title: ICCH Bulletin of March 8, 2026
-date: 2026-03-08 12:24:02 +02:00
+date: 2026-03-08 11:24:02 +01:00
 layout: post
 ---
 
